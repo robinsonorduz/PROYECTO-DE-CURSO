@@ -199,3 +199,4 @@ MODULE Module1
         SetDO cerrar,0;
     ENDPROC
 ENDMODULE
+.
