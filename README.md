@@ -199,4 +199,6 @@ MODULE Module1
         SetDO cerrar,0;
     ENDPROC
 ENDMODULE
-.
+
+El resultado de la simulacion es este:
+https://youtu.be/em6pgqhC7fs
