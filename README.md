@@ -7,3 +7,15 @@ Para controlar el cierre y apertura de las pinzas se uso una jeringa de 30 ml qu
 Para ejecutar la liberacion del objeto se abren las pinzas y esto se logra haciendo que la camara que anteriormente se expandio, se contraiga haciendo vacio sobre ella con una valvula de venturi.
 Ambos movimientos son ejecutados por un sistema electroneumatico y controlados por 2 salidas digitales desde el controlador IRC5 ASI:
 
+https://github.com/robinsonorduz/PROYECTO-DE-CURSO/blob/main/cto%20neumatico.JPG
+
+se usaron los siguientes elementos neumaticos:
+-1 valvula 5/2 biestable con mando manual y electrico.
+-1 valvula 5/2 monoestable con mando neumatico y retorno por muelle.
+-1 valvula venturi con silenciador.
+-1 regulador de caudal.
+- 1 tee.
+- manguera 6mm.
+- manguera 8mm.
+- racores 6 y 8 mm con rosca 1/4 y 3/8 segun las especificaciones de las valvulas.
+- 1 reduccion de 6 a 8mm
