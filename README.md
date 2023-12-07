@@ -19,3 +19,5 @@ se usaron los siguientes elementos neumaticos:
 - manguera 8mm.
 - racores 6 y 8 mm con rosca 1/4 y 3/8 segun las especificaciones de las valvulas.
 - 1 reduccion de 6 a 8mm
+El resultado final fue el siguiente:
+
