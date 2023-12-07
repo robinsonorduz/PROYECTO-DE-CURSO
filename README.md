@@ -22,5 +22,6 @@ se usaron los siguientes elementos neumaticos:
 - 1 valvula 5/2 biestable con mando manual y electrico.
 El resultado final fue el siguiente:
 https://github.com/robinsonorduz/PROYECTO-DE-CURSO/blob/main/pinza.jpg
-Luego se hizo un modelado de la herramienta copiando las cotas geometricas principales en Inventor y se exporto a Robotstudio, para configurar el orgen y el TCP de manera conveniente, luego se guardo como herramienta para que aparezca en la biblioteca y poder usarla luego desde cualquier estacion:
+Luego se hizo un modelado de la herramienta copiando las cotas geometricas principales en Inventor y se exporto a Robotstudio, para configurar el orgen y el TCP de manera conveniente, luego se guardo como herramienta para que aparezca en la biblioteca y poder usarla luego desde cualquier estación:
+https://github.com/robinsonorduz/PROYECTO-DE-CURSO/blob/main/RSpinza.JPG
 
