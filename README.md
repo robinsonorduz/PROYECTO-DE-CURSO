@@ -10,14 +10,15 @@ Ambos movimientos son ejecutados por un sistema electroneumatico y controlados p
 https://github.com/robinsonorduz/PROYECTO-DE-CURSO/blob/main/cto%20neumatico.JPG
 
 se usaron los siguientes elementos neumaticos:
--1 valvula 5/2 biestable con mando manual y electrico.
--1 valvula 5/2 monoestable con mando neumatico y retorno por muelle.
--1 valvula venturi con silenciador.
--1 regulador de caudal.
+
 - 1 tee.
 - manguera 6mm.
 - manguera 8mm.
 - racores 6 y 8 mm con rosca 1/4 y 3/8 segun las especificaciones de las valvulas.
-- 1 reduccion de 6 a 8mm
+- 1 reduccion de 6 a 8mm.
+- 1 regulador de caudal.
+- 1 valvula venturi con silenciador.
+- 1 valvula 5/2 monoestable con mando neumatico y retorno por muelle.
+- 1 valvula 5/2 biestable con mando manual y electrico.
 El resultado final fue el siguiente:
 
