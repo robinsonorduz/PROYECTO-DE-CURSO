@@ -202,3 +202,5 @@ ENDMODULE
 
 El resultado de la simulacion es este:
 https://youtu.be/em6pgqhC7fs
+y asi se ve en la realidad:
+https://youtu.be/6BjIjFQEbZc
